@@ -1,8 +1,4 @@
-# XV6
-OS Lab : CSL 3030
-<p align="center">
-  <img src="xv6-logo.png" alt="XV6 Logo">
-</p>
+
 
 # Welcome to XV6 Playground 🚀
 
