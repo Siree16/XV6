@@ -6,7 +6,7 @@ Welcome to the XV6 Playground repository! Here, we explore the XV6 operating sys
 
 ## Getting Started 🛠️
 
-To kickstart your XV6 adventure, check out our interactive "Demystifying the XV6 Operating System" presentation. This not only introduces you to XV6 but also guides you through the installation process step by step.
+To kickstart your XV6 adventure, check out the interactive "Demystifying the XV6 Operating System" presentation. This not only introduces you to XV6 but also guides you through the installation process step by step.
 
 
 
@@ -28,6 +28,7 @@ Venture into the unknown and wield the power of system calls. The "Creating a Sy
 
 - `my_prog.c`: The canvas for your Echo application creativity.
 - `int_cps.txt`: The ancient scroll revealing the core of the system call sorcery.
+- `Presentations`:For reference
 - More treasures and resources await within!
 
 📜 License: This repository is your educational playground based on XV6. Please respect the licensing terms associated with XV6 in your explorations.
